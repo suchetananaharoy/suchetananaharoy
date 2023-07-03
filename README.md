@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/suchetana-naharoy-ba4556198/](https://www.linkedin.com/in/suchetana-naharoy-ba4556198/)
 
-- 💬 Ask me about **Tableau, SQL, MS Access, Power BI, MS Powerpoint, MS Word, Microsoft SQL server, Python**
+- 💬 Ask me about **Tableau, SQL, MS Access, Rstudio, Power BI, MS Powerpoint, MS Word, Microsoft SQL server, Python**
 
 - 📫 How to reach me **suchetananaharoy@gmail.com**
 
