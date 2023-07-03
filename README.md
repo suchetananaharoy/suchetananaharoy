@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchetana Naha Roy</h1>
-<h3 align="center">A passionate Data analytics from India</h3>
+<h3 align="center">A passionate Business Data analytics from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
