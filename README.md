@@ -74,18 +74,14 @@ I specialize in **data visualization, business intelligence, predictive analytic
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suchetananaharoy&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchetananaharoy&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
+<!-- Overall Stats -->
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchetananaharoy&theme=monokai)
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suchetananaharoy&theme=radical" alt="GitHub Streak" width="60%" />
-</p>
+<!-- Top Languages -->
+![GitHub Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchetananaharoy&theme=monokai)
+
+<!-- Contribution Graph -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/suchetananaharoy)
 
 ---
 
