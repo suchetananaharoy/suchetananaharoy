@@ -6,7 +6,7 @@ Transforming raw data into actionable insights with advanced analytics, visualiz
 </p>
 
 <p align="center">
-  <img width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif" alt="Data Analytics GIF">
+  <img width="400" src="[https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif](https://pro2-bar-s3-cdn-cf6.myportfolio.com/5a142761-664b-4e50-ad0d-d1e9b5b316ef/ab2dcc26-562a-4138-9cf1-5899f8b2d875_rw_1200.gif?h=06d091ffe85bb25d463b023d631d6005)" alt="Data Analytics GIF">
 </p>
 
 ---
